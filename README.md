@@ -1,11 +1,11 @@
 # LocationForIp
 Location program to find the person with the ip
 
-1 Abrir la pagina donde quieres ubicar a las personas por IP
-2 apreta F12 o abre el inspeccionar de google chrome 
-3 abre la segunda pestaña que dice console
-4 copia y pega el siguiente codigo en la terminal y pulsa enter
-5 cada vez que detecte un ip encontra a la persona
+1 Abrir la pagina donde quieres ubicar a las personas por IP <br />
+2 apreta F12 o abre el inspeccionar de google chrome  <br />
+3 abre la segunda pestaña que dice console <br />
+4 copia y pega el siguiente codigo en la terminal y pulsa enter <br />
+5 cada vez que detecte un ip encontra a la persona <br />
 
 ```
 
