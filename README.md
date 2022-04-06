@@ -1,8 +1,8 @@
 # LocationForIp
 Location program to find the person with the ip
 
-1 Buscar tu apiKey en la siguiente pagina: https://app.ipgeolocation.io/
-2 logueate y te aparecera tu apiKey
+1 Buscar tu apiKey en la siguiente pagina: https://app.ipgeolocation.io/ <br />
+2 logueate y te aparecera tu apiKey <br />
 3 Abrir la pagina donde quieres ubicar a las personas por IP <br />
 4 apreta F12 o abre el inspeccionar de google chrome  <br />
 5 abre la segunda pestaña que dice console <br />
